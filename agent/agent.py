@@ -9,7 +9,7 @@ import schedule
 # --- CONFIGURACIÓN ---
 # URL completa del endpoint de la API donde se enviarán los datos.
 # ¡Asegúrate de cambiar 'TU_IP_DE_EC2' por la IP pública de tu instancia de AWS!
-API_URL = "http://44.208.35.230/collect"
+API_URL = "http://100.26.185.32/collect"
 
 # Token de autenticación. Debe ser el mismo que está configurado en la API.
 API_TOKEN = "micompania_secret_token_12345"
